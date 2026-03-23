@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Levinna/levinna.github.io",
+    "data-repo": "Levinna/Levinna.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
