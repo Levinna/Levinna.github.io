@@ -58,7 +58,7 @@ plugins:
 
 author:
   name: "Kihyun Na"
-  avatar: "/assets/images/profile.jpg" # TODO
+  avatar: "/assets/images/Bio_KihyunNa.jpg"
   bio: "Postdoctoral Research Fellow at Handong Global University."
   links:
     - label: "Email"
